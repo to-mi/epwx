@@ -34,7 +34,7 @@ Reference
 
 Peltola, Jylänki, Vehtari. _Expectation propagation for likelihoods depending on an inner product of two multivariate random variables._ In JMLR Workshop and Conference Proceedings: AISTATS 2014, volume 33, p. 769-777. ([link][])
 
-The EP-VB hybrid Gibbs sampling are described in Rattray, Stegle, Sharp, Winn (2009) Inference algorithms and learning theory for Bayesian sparse factor analysis. Journal of Physics: Conference Series, 197(1).
+The EP-VB hybrid algorithm and Gibbs sampling are described in Rattray, Stegle, Sharp, Winn (2009) Inference algorithms and learning theory for Bayesian sparse factor analysis. Journal of Physics: Conference Series, 197(1).
 
   [link]: http://jmlr.org/proceedings/papers/v33/peltola14.html
 
